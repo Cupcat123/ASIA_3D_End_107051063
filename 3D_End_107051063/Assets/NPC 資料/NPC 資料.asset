@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5441a34c05e7e4740b10dda645c72373, type: 3}
+  m_Name: "NPC \u8CC7\u6599"
+  m_EditorClassIdentifier: 
+  dialogA: "\u5FEB! \u6211\u7684\u50D5\u4EBA \u53BB\u6253\u5012\u90A3\u4E9B\u5154\u5B50
+    \u4ECA\u665A\u5403\u7D05\u71D2\u5154!!"
+  dialogB: "\u597D"
+  dialogC: "\u4E0D\u597D"
+  count: 3
+  countCurrent: 0
